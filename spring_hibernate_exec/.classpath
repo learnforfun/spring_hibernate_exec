@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring4.3.4RELEASE"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/apache-commons-logging"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/log4j2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate-4.3.11"/>
+	<classpathentry kind="lib" path="D:/JavaLib/c3p0/c3p0-0.9.5.2/lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/JavaLib/c3p0/c3p0-0.9.5.2/lib/c3p0-oracle-thin-extras-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/JavaLib/c3p0/c3p0-0.9.5.2/lib/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="lib" path="D:/JavaLib/ojdbc/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
